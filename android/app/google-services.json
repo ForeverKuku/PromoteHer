@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630067209698",
+    "project_id": "promote-her-app-now",
+    "storage_bucket": "promote-her-app-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630067209698:android:fa47a0f0da78e9aebd45bb",
+        "android_client_info": {
+          "package_name": "com.example.promote_her_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYvV5AbWS1KdfOU0rh9Dc_z4nw423IWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
